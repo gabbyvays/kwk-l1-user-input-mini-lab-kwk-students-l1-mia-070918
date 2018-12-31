@@ -12,6 +12,10 @@ puts "What would you like to eat?"
 
 eat = "pizza"
 
+puts "How many nights are you planning to stay?"
+
+nights = "10"
+
 # Lastly, puts it all back by interpolating these values in a string.
 
 puts ""
