@@ -18,8 +18,6 @@ nights = "4"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "Let's plan your trip! Where would you like to stay?"
-
-stay = California
+puts "
 
 
