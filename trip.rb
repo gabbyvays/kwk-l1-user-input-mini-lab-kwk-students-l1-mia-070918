@@ -18,4 +18,4 @@ nights = "4"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts ""
+puts "Let's"
