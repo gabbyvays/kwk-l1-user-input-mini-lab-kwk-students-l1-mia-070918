@@ -18,6 +18,6 @@ nights = "4"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "I would like to stay in 
+puts "
 
 
