@@ -14,7 +14,7 @@ eat = "pizza"
 
 puts "How many nights are you planning to stay?"
 
-nights = "10"
+nights = "4"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
