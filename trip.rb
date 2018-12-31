@@ -19,6 +19,6 @@ nights = gets.chomp
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts ""
+puts "So, you are going to stay at #{stay}, you would like to eat at #{eat}, and you will be staying a total of #{nights} nights."
 
 
